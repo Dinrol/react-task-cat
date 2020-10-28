@@ -184,6 +184,7 @@ body {
       }
    }
    &__note {
+      text-shadow: 0 1px 0 #000000;
       color: #ffffff;
       font-size: 13px;
       line-height: 16px;
@@ -192,6 +193,9 @@ body {
          color: #1698d9;
          font-weight: 700;
          border-bottom: 1px dashed #1698d9;
+      }
+      &.disabled {
+         color: #ffff66;
       }
    }
    &.active {
@@ -203,6 +207,8 @@ body {
       .column__weight {
          background-color: #d91667;
       }
+   }
+   &.activeHover {
       &:hover {
          border-color: #e52e7a;
          &::after {

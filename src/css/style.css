@@ -332,6 +332,7 @@ body {
 }
 
 .column__note {
+  text-shadow: 0 1px 0 #000000;
   color: #ffffff;
   font-size: 13px;
   line-height: 16px;
@@ -342,6 +343,10 @@ body {
   color: #1698d9;
   font-weight: 700;
   border-bottom: 1px dashed #1698d9;
+}
+
+.column__note.disabled {
+  color: #ffff66;
 }
 
 .column.active {
@@ -357,16 +362,16 @@ body {
   background-color: #d91667;
 }
 
-.column.active:hover {
+.column.activeHover:hover {
   border-color: #e52e7a;
 }
 
-.column.active:hover::after {
+.column.activeHover:hover::after {
   border-top: 60px solid #e52e7a;
   border-right: 60px solid transparent;
 }
 
-.column.active:hover .column__weight {
+.column.activeHover:hover .column__weight {
   background-color: #e52e7a;
 }
 
