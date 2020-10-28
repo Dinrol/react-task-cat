@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-task-cat/static/css/main.35f5e6da.chunk.css",
+    "main.js": "/react-task-cat/static/js/main.7a113dd8.chunk.js",
+    "main.js.map": "/react-task-cat/static/js/main.7a113dd8.chunk.js.map",
+    "runtime-main.js": "/react-task-cat/static/js/runtime-main.10f0c276.js",
+    "runtime-main.js.map": "/react-task-cat/static/js/runtime-main.10f0c276.js.map",
+    "static/js/2.bb17b057.chunk.js": "/react-task-cat/static/js/2.bb17b057.chunk.js",
+    "static/js/2.bb17b057.chunk.js.map": "/react-task-cat/static/js/2.bb17b057.chunk.js.map",
+    "index.html": "/react-task-cat/index.html",
+    "precache-manifest.2c0ef0f1a6d29e2bc5e6e9ee40058cbf.js": "/react-task-cat/precache-manifest.2c0ef0f1a6d29e2bc5e6e9ee40058cbf.js",
+    "service-worker.js": "/react-task-cat/service-worker.js",
+    "static/css/main.35f5e6da.chunk.css.map": "/react-task-cat/static/css/main.35f5e6da.chunk.css.map",
+    "static/js/2.bb17b057.chunk.js.LICENSE.txt": "/react-task-cat/static/js/2.bb17b057.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/react-task-cat/static/media/trebucbd.d80e88ed.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10f0c276.js",
+    "static/js/2.bb17b057.chunk.js",
+    "static/css/main.35f5e6da.chunk.css",
+    "static/js/main.7a113dd8.chunk.js"
+  ]
+}
